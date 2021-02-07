@@ -12,8 +12,8 @@
         
 ### -- Para rodar, siga os seguintes passos:
         *1. Clone o repositório em alguma pasta de seu computador;
-        *2. Rodar o comando ˋyarnˋ, para que todas as dependências sejam instaladas;
+        *2. Rodar o comando *yarn*, para que todas as dependências sejam instaladas;
         *3. Ter algum emulador para rodar a aplicação, por exemplo, os emuladores do android studio, para isso deixe o Android Studio aberto
         *4. Agora você poderá rodar de duas formas:
-                *4.1. Rode o comando ˋnpx react-native run-androidˋ, diretamente na raiz do projeto, com isso ele irá iniciar o Metro Bundler, iniciar o Emulador, instalar o projeto e abri-lo diretamente.
-                *4.2. Caso o modo acima não dê certo, pode tentar abrindo dois terminais na raiz do projeto, no primeiro rodar o comando ˋyarn startˋ, que irá iniciar o Metro Bundler, e no segundo terminal rodar o comando ˋnpx react-native run-androidˋ.
+                *4.1. Rode o comando *npx react-native run-android*, diretamente na raiz do projeto, com isso ele irá iniciar o Metro Bundler, iniciar o Emulador, instalar o projeto e abri-lo diretamente.
+                *4.2. Caso o modo acima não dê certo, pode tentar abrindo dois terminais na raiz do projeto, no primeiro rodar o comando *yarn start*, que irá iniciar o Metro Bundler, e no segundo terminal rodar o comando ˋnpx react-native run-androidˋ.
