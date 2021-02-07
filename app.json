@@ -1,0 +1,12 @@
+{
+  "name": "DuxMovie",
+  "displayName": "DuxMovie",
+  "expo": {
+    "name": "DuxMovie",
+    "slug": "DuxMovie",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
